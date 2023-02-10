@@ -1,0 +1,17 @@
+.banner {
+	/* height: 100vh; */
+	padding: 150px 0;
+	background: linear-gradient(180deg, rgba(72, 229, 169, 0) 47.57%, rgba(72, 229, 169, 0.15) 100%), #0B2F28;
+}
+
+.down:hover {
+	fill: red;
+}
+
+.mega-menu {
+	display: none;
+}
+
+.active {
+	display: block;
+}
